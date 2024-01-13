@@ -18,10 +18,10 @@ The roadmap is divided into three main sections: Beginner Topics, Intermediate T
 
 - ~~Introduction to the Language~~
 - ~~Setting up your Environment~~
-- Running your First Program
-- Arithmetic Operators
-- Logical Operators
-- Loops: for/while
+- ~~Running your First Program~~
+- ~~Arithmetic Operators~~
+- ~~Logical Operators~~
+- ~~Loops: for/while~~
 - Bitwise Operators
 - Functions Operators Lambda
 - Data Types
