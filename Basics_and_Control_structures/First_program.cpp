@@ -1,7 +1,7 @@
 // This program is Developed to find GCD of smallest and largest number in a given integer Vector. 
-/* It will help me learn the basic structures of c++,  Preprocedure directives, header files, namespaces, 
- scope resolution operator, input stream like cin and output ones like cout, clog, cerr vector and other syntaxtical things.
-  */
+ // It will help me learn the basic structures of c++,  Preprocedure directives, header files, namespaces, 
+ // scope resolution operator, input stream like cin and output ones like cout, clog, cerr vector and other syntaxtical things.
+  
 
 #include <iostream>
 #include <vector>
